@@ -1,0 +1,16 @@
+{
+  "name": "storm-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nuzze",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-pre-gyp": "^0.17.0",
+    "webtorrent-hybrid": "^4.0.3"
+  }
+}
